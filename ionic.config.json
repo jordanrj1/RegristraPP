@@ -1,0 +1,7 @@
+{
+  "name": "RegristraPP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
